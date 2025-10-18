@@ -1,0 +1,15 @@
+.alert {
+    display: flex;
+    flex-direction: row-reverse;
+    box-shadow: 1px 3px 10px -5px black;
+    padding: 30px;
+    border-radius: 20px;
+    width: 40%;
+    overflow: hidden;
+}
+.alert .content {
+    padding: 10px;
+}
+.alert img {
+    width: 100px;
+}

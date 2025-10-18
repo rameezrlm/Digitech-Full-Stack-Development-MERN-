@@ -1,0 +1,35 @@
+.student-card{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 20%;
+    overflow: hidden;
+    padding: 20px;
+    box-shadow: 1px 3px 10px -5px black;
+    border-radius: 20px;
+    margin: 10px;
+}
+.student-card .student-content {
+    padding: 10px;
+}
+.student-card .student-content h3 {
+    margin: 20px 0px;
+}
+.student-card .student-content .btn {
+    display: flex;
+    margin-top: 20px;
+}
+.student-card .student-content .btn button {
+    width: 290px;
+}
+.student-img-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #33333327;
+    padding: 10px;
+    border-radius: 30px;
+}
+.student-img-card .card-img-s {
+    width: 100%;
+}

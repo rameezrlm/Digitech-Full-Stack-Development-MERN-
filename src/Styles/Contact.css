@@ -1,0 +1,55 @@
+.contact-container {
+  max-width: 800px;
+  margin: 50px auto;
+  background: #fff;
+  padding: 30px 40px;
+  border-radius: 15px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.contact-container h2 {
+  text-align: center;
+  color: #004aad;
+  margin-bottom: 25px;
+}
+
+.contact-container p {
+  font-size: 16px;
+  color: #333;
+  line-height: 1.6;
+  text-align: justify;
+}
+
+.contact-info {
+  margin-top: 25px;
+}
+
+.contact-info h3 {
+  color: #004aad;
+  margin-bottom: 5px;
+}
+
+.contact-info p {
+  margin-bottom: 15px;
+  color: #444;
+}
+
+.contact-purpose {
+  margin-top: 30px;
+}
+
+.contact-purpose h3 {
+  color: #004aad;
+  margin-bottom: 10px;
+}
+
+.contact-purpose ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+.contact-purpose li {
+  color: #333;
+  margin-bottom: 8px;
+  line-height: 1.5;
+}
